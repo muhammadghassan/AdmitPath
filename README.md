@@ -6,7 +6,7 @@ AdmitPath is a full-stack web platform designed to streamline, manage, and perso
 
 ## 🌐 Live Demo 
 > 🚧 Deploy in progress  
-> 
+> https://admit-path.vercel.app/
 
 ---
 
